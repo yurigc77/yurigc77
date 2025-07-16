@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuri Garcia Campos</h1>
-<h3 align="center">A Game and C# developer</h3>
-
-- 🌱 I’m currently learning **Game development, C# and Unity**
-
-- 👨‍💻 All of my projects are available at [https://nave77.itch.io](https://nave77.itch.io)
+<h3 align="center">A C# developer</h3>
 
 - 📫 How to reach me **yurigc@yahoo.com.br**
 
